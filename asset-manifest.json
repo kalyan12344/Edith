@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Edith/static/css/main.7ce3c983.css",
+    "main.js": "/Edith/static/js/main.9e7660ad.js",
+    "static/js/787.5e371921.chunk.js": "/Edith/static/js/787.5e371921.chunk.js",
+    "index.html": "/Edith/index.html",
+    "main.7ce3c983.css.map": "/Edith/static/css/main.7ce3c983.css.map",
+    "main.9e7660ad.js.map": "/Edith/static/js/main.9e7660ad.js.map",
+    "787.5e371921.chunk.js.map": "/Edith/static/js/787.5e371921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce3c983.css",
+    "static/js/main.9e7660ad.js"
+  ]
+}
