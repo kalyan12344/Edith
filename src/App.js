@@ -6,7 +6,7 @@ const App = () => {
     <>
       <BrowserRouter>
         <Routes>
-          <Route exact path="/" element={<Chat />} />
+          <Route exact path="/Edith" element={<Chat />} />
         </Routes>
       </BrowserRouter>
     </>
